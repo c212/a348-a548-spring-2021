@@ -1,1 +1,18 @@
-this for the second lecture week of april 15
+-bash-4.2$ export PATH=/l/www/classes/a290-js/software/local/bin:$PATH
+-bash-4.2$ node -v
+v10.14.1
+-bash-4.2$ npm run dev
+
+> whatever@1.0.0 dev /nfs/nfs6/home/dgerman/a348-spring-2021-workspace/apache/htdocs/tomorrow-apr-11
+> PORT=61123 nodemon server
+
+[nodemon] 2.0.7
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,json
+[nodemon] starting `node server.js`
+Server running on port 61123
+New WS connection...
+New WS connection...
+^C
+-bash-4.2$
