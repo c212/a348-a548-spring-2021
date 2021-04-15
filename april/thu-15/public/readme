@@ -1,0 +1,11 @@
+for html, css and js files:
+
+-bash-4.2$ ls
+node_modules  npm-debug.log  package.json  package-lock.json  public  server.js
+-bash-4.2$ ls public/
+chat.html  css  index.html  js
+-bash-4.2$ ls public/css/
+style.css
+-bash-4.2$ ls public/js
+main.js
+-bash-4.2$
