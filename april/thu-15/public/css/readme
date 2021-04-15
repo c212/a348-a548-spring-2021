@@ -1,0 +1,11 @@
+This should have been done before the js folder, honestly. 
+
+-bash-4.2$ pwd
+/u/dgerman/a348-spring-2021-workspace/apache/htdocs/tomorrow-apr-11/public
+-bash-4.2$ ls
+chat.html  css  index.html  js
+-bash-4.2$ ls css/
+style.css
+-bash-4.2$
+
+Sorry. 
