@@ -1,0 +1,13 @@
+-bash-4.2$ pwd
+/u/dgerman/a348-spring-2021-workspace/apache/htdocs/tomorrow-apr-11/public
+-bash-4.2$ tree .
+.
+├── chat.html
+├── css
+│   └── style.css
+├── index.html
+└── js
+    └── main.js
+
+2 directories, 4 files
+-bash-4.2$
